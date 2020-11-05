@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example.test.bean;
 
 public class Name {
     String id="123465";
